@@ -4,9 +4,10 @@ Group-2 <asaduzzaman.noor@northsouth.edu>
 == Git Repo for the Project
 
 This is the git repo for the CSE331 Project. +
-_Project Name_ : Electronic Voting Machine
-_Project Type_ : Guided
+_Project Name_ : Electronic Voting Machine +
+_Project Type_ : Guided +
 _Group No._ : 2
+
 
 *Group Members* :
 
