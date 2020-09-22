@@ -4,7 +4,7 @@ Asaduzzaman Noor <asaduzzaman.noor@northsouth.edu>
 == Git Repo for the Project
 
 This is the git repo for the CSE331 Project. +
-Section: 7
+Section: 7 +
 Faculty: Rishad Arfin (RsF)
 
 [%hardbreaks]
