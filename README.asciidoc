@@ -16,3 +16,10 @@ _Group No._ : 2
 * Tarana Kabir - 162 0404 042
 * Jahin Mahbub - 153 1552 042
 
+
+*Used Softwares* :
+
+* Proteus 8.9
+* μVision 5.27
+
+
