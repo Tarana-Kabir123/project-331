@@ -8,6 +8,7 @@ _Project Name_ : Electronic Voting Machine +
 _Project Type_ : Guided +
 _Group No._ : 2
 
+'''
 
 *Group Members* :
 
@@ -16,6 +17,7 @@ _Group No._ : 2
 * Tarana Kabir - 162 0404 042
 * Jahin Mahbub - 153 1552 042
 
+'''
 
 *Used Softwares* :
 
